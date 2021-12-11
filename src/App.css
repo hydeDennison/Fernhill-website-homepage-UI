@@ -1,0 +1,21 @@
+@import url('http://fonts.cdnfonts.com/css/neue-haas-grotesk-display-pro');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* font-family: 'Sofia Pro', sans-serif; */
+  font-family: 'Proxima Nova Condensed', sans-serif;
+ /* font-family: 'Proxima Nova Extra Condensed', sans-serif; */
+}
+body{
+  overflow-x: hidden;
+}
+a{
+  text-decoration: none;
+  text-transform: capitalize;
+  font-weight: bold;
+  color: black;
+
+
+}
